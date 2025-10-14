@@ -1,1 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>My App Updates</title>
 
+    <!-- iOS build -->
+    <item>
+      <title>Version 4.0.0 (iOS)</title>
+      <description><![CDATA[
+- Added Dark Mode support.
+- Improved app startup time.
+- Fixed minor bugs.
+]]></description>
+      <enclosure
+        url="https://apps.apple.com/us/app/qubic-wallet/id6502265811"
+        sparkle:version="4.0.0"
+        sparkle:os="iOS"
+        sparkle:minimumSystemVersion="3.5.0" />
+      <sparkle:version>4.0.0</sparkle:version>
+      <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+    </item>
+
+    <!-- Android build -->
+    <item>
+      <title>Version 3.0.0 (Android)</title>
+      <description><![CDATA[
+- Performance enhancements.
+- UI improvements and minor fixes.
+]]></description>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=org.qubic.wallet"
+        sparkle:version="3.0.0"
+        sparkle:os="android"
+        sparkle:minimumSystemVersion="2.5.0" />
+      <sparkle:version>3.0.0</sparkle:version>
+      <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+    </item>
+
+  </channel>
+</rss>
