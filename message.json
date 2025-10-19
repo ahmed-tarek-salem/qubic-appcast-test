@@ -1,1 +1,9 @@
-{}
+{
+  "id": "maintenance-oct18",
+  "title": "Maintenance in Progress",
+  "message": "The app is under maintenance. Please try again later.",
+  "blocking": true,
+  "platform": "all",
+  "start_date": "2025-10-18T12:00:00Z",
+  "end_date": "2025-10-20T13:00:00Z"
+}
