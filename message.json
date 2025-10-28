@@ -3,8 +3,6 @@
   "title": "Maintenance in Progress",
   "message": "The app is under maintenance. Please try again later.",
   "blocking": false,
-  "platform": "ios",
-  "start_date": "2025-10-18T12:00:00Z",
-  "end_date": "2025-10-26T00:00:00Z",
+  "platform": "all",
   "disabled": false
 }
