@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0",
+  "lastUpdated": "2025-11-29T12:00:00Z",
+  "updates": [
+    {
+      "platform": "ios",
+      "version": "99.0.0",
+      "buildNumber": 9999,
+      "minOsVersion": "13.0",
+      "releaseDate": "2025-11-29",
+      "releaseNotes": "TEST UPDATE - iOS\n\n- This is a test update to verify the update dialog\n- Version 99.0.0 is intentionally high for testing\n- The dialog should appear when you launch the app\n\nThis is a non-required update, so you can dismiss it with 'Later'.",
+      "downloadUrl": "https://apps.apple.com/us/app/qubic-wallet/id6502265811",
+      "required": false
+    },
+    {
+      "platform": "android",
+      "version": "99.0.0",
+      "buildNumber": 9999,
+      "minOsVersion": "21",
+      "releaseDate": "2025-11-29",
+      "releaseNotes": "TEST UPDATE - Android\n\n- This is a test update to verify the update dialog\n- Version 99.0.0 is intentionally high for testing\n- The dialog should appear when you launch the app\n\nThis is a non-required update, so you can dismiss it with 'Later'.",
+      "downloadUrl": "https://play.google.com/store/apps/details?id=org.qubic.wallet",
+      "required": false
+    }
+  ]
+}
